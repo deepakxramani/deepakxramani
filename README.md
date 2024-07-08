@@ -7,7 +7,7 @@
  </abc>
 </h2> 
 
-##👀 About Me
+## 🥷 About Me
 
 I'm a passionate Full Stack Developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js). I thrive on building responsive, user-friendly web applications that solve real-world problems. I'm always eager to learn new technologies and improve my skills.
 
