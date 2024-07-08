@@ -58,7 +58,7 @@ I'm a passionate Full Stack Developer specializing in the MERN stack (MongoDB, E
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepakramani79/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/deepakxramani)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/deepakxramani)
-<a href="https://deepak-ramani-portfolio.vercel.app/">
-<image source="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white" />
+<a href="https://deepak-ramani-portfolio.vercel.app/" target="_blank">
+<image src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white" />
 </a>
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:deepakramani65@gmail.com)
