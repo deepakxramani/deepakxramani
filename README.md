@@ -50,6 +50,9 @@ I'm a passionate Full Stack Developer specializing in the MERN stack (MongoDB, E
 ## 📈 GitHub Stats
 
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepakxramani&show_icons=true&theme=radical)
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakxramani&theme=react&hide_border=true" align="center" width="47%"/> 
+
+<br><br>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakxramani&layout=compact&theme=radical)
 
@@ -62,3 +65,8 @@ I'm a passionate Full Stack Developer specializing in the MERN stack (MongoDB, E
 <image src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white" />
 </a>
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:deepakramani65@gmail.com)
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&width=330&section=footer"/>
+</p> 
