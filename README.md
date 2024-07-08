@@ -1,4 +1,4 @@
-<h2 align="left">
+<h2 align="center">
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Deepak Ramani, Full Stack Web Developer :computer:<br>
@@ -7,7 +7,7 @@
  </abc>
 </h2> 
 
-## About Me
+##👀 About Me
 
 I'm a passionate Full Stack Developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js). I thrive on building responsive, user-friendly web applications that solve real-world problems. I'm always eager to learn new technologies and improve my skills.
 
