@@ -71,5 +71,5 @@ I'm a passionate Full Stack Developer specializing in the MERN stack (MongoDB, E
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=330&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=400&section=footer"/>
 </p> 
