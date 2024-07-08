@@ -35,5 +35,6 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-deepakramani79-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepakramani79/)](https://www.linkedin.com/in/deepakramani79) [![Twitter Badge](https://img.shields.io/badge/-@deepakxramani-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/deepakxramani)](https://twitter.com/deepakxramani) [![![Instagram Badge](https://img.shields.io/badge/-@deepakxramani-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/deepakxramani/)](https://www.instagram.com/deepakxramani/)
+[![Linkedin Badge](https://img.shields.io/badge/-deepakramani79-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepakramani79/)](https://www.linkedin.com/in/deepakramani79) [![Twitter Badge](https://img.shields.io/badge/-@deepakxramani-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/deepakxramani)](https://twitter.com/deepakxramani) 
+[![Instagram Badge](https://img.shields.io/badge/-@deepakxramani-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/deepakxramani/)](https://www.instagram.com/deepakxramani/)
 
