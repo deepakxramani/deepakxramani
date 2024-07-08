@@ -53,7 +53,7 @@ I'm a passionate Full Stack Developer specializing in the MERN stack (MongoDB, E
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakxramani&layout=compact&theme=radical)
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/deepakxramani/deepakxramani/blob/output/github-contribution-grid-snake.svg)
 
 ## 🤝 Let's Connect
 
