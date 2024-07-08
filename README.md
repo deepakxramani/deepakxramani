@@ -55,8 +55,7 @@ I'm a passionate Full Stack Developer specializing in the MERN stack (MongoDB, E
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakxramani&theme=react&hide_border=true" align="center" width="47%"/> 
   <br> <br>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakxramani&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-   <br><br>
- <img src="https://activity-graph.herokuapp.com/graph?username=deepakxramani&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
    
 </div>
 
@@ -72,5 +71,5 @@ I'm a passionate Full Stack Developer specializing in the MERN stack (MongoDB, E
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&width=330&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=330&section=footer"/>
 </p> 
