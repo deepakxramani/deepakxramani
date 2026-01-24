@@ -64,10 +64,7 @@ I'm a passionate Full Stack Developer specializing in the MERN stack (MongoDB, E
 
  <div align="center" style="display: inline-flex;">
   
- <img src="https://github-readme-stats.vercel.app/api?username=deepakxramani&theme=react&hide_border=true&include_all_commits=false&count_private=false" align="center"  width="47%"/>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakxramani&theme=react&hide_border=true" align="center" width="47%"/> 
-  <br> <br>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakxramani&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakxramani&show_icons=true&locale=en&layout=compact" alt="deepakxramani" /></p>
 
    
 </div>
